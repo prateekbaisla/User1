@@ -20,3 +20,29 @@
     “Maintained discipline in all assigned internal activities with emphasis on accuracy, process compliance, and continuous improvement in technical execution quality.”
 11. Overall Contribution / Additional Remarks
     “Utilized bench period effectively for capability enhancement, technical learning, and preparation for future project opportunities to contribute efficiently from day one.”
+
+
+
+Achievement Summary
+
+“Utilized non-project duration effectively by focusing on continuous learning, improving Data Engineering skills, and strengthening technical capabilities relevant to future business requirements.”
+
+What went well?
+
+“Successfully improved knowledge in Python, SQL, Data Engineering concepts, reporting tools, and modern technologies through consistent self-learning and hands-on practice.”
+
+What could have been better?
+
+“Earlier allocation to a live project could have provided more practical exposure and opportunities to apply the learned technical skills in real-time scenarios.”
+
+Learnings derived?
+
+“Learned the importance of continuous upskilling, adaptability, self-discipline, and staying updated with evolving technologies to remain project-ready at all times.”
+
+Feedback to Appraiser
+
+“Thank you for the continuous support and guidance. Looking forward to opportunities that will help me contribute effectively and grow further within the organization.”
+
+Feedback to Appraiser
+
+“Would appreciate opportunities to work on challenging projects and gain more practical exposure in Data Engineering and related technologies.”
